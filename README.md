@@ -1,2 +1,2 @@
 # Memory-Forensics
-Some notes about memory forensicsss
+Some notes about memory forensics
